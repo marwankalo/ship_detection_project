@@ -2,43 +2,40 @@
 
 Use this checklist to avoid forgetting any required elements from your Capstone MVP. This is based on the [Campus Capstone Rubric](https://docs.google.com/spreadsheets/d/1YUC5_QVu8BEd7xBJumzspH40-KuJtL9KQInQYXGi5bE/edit?usp=sharing).
 
-## How to Use This Checklist
-
-Fork this checklist, and complete it prior to submitting your Capstone for review. You can mark items as complete by adding an 'x' between the brackets in your Markdown file (i.e. change `[ ]` to `[x]`). You do not need to share this with your instructor.
 
 ## Business Understanding
 
 - [ ] Clearly explains the real-world problem your project attempts to solve in...
   - [ ] Readme
-  - [ ] Notebook
+  - [X] Notebook
   - [ ] Slides
 
 ## Data Understanding
 
 - [ ] Describes the data source in...
   - [ ] Readme
-  - [ ] Notebook
+  - [X] Notebook
   - [ ] Slides
-- [ ] Notebook describes properties of all variables used in project
+- [X] Notebook describes properties of all variables used in project
 
 ## Data Preparation
 
-- [ ] Notebook or `.py` file(s) include code to prepare your raw data for analysis
+- [X] Notebook or `.py` file(s) include code to prepare your raw data for analysis
 
 ## Modeling
 
-- [ ] Notebook includes a baseline model
-- [ ] Notebook includes additional models built iteratively from the baseline model
+- [X] Notebook includes a baseline model
+- [X] Notebook includes additional models built iteratively from the baseline model
 - [ ] Preferred model is described in...
   - [ ] Readme
-  - [ ] Notebook
+  - [X] Notebook
   - [ ] Slides
 
 ## Evaluation
 
 - [ ] Model validation is included in...
   - [ ] Readme
-  - [ ] Notebook
+  - [X] Notebook
   - [ ] Slides
 
 ## Readme Content
@@ -53,10 +50,10 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 ## Notebook Content
 
 - [ ] Notebook includes...
-  - [ ] Data understanding
-  - [ ] Data preparation
-  - [ ] Modeling
-  - [ ] Evaluation
+  - [X] Data understanding
+  - [X] Data preparation
+  - [X] Modeling
+  - [X] Evaluation
 
 ## Presentation Content
 
