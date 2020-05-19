@@ -12,7 +12,7 @@ AIS are very effective at monitoring ships which are legally required to install
 
 ### Executive Summary
 
-![Test Image](training_image_ships.png)
+![Test Image](./images/training_image_ships.png)
 
 The use of satellite detection of ships will significantly bolster the arsenal of stakeholders in maritime surveillance. Used in conjunction with AIS, satellite detection can flag previously unidentified ships and build up a more accurate picture of the world's seas and oceans that are becoming ever more crowded. Some key challenges that this form of surveillance will attempt to tackle are: illegal fishing operations, maritime accident identification and illegal border immigration. 
 In the last decade, numerous companies have deployed survelliance satellites in an attempt to bolster their monitoring capabilities. In turn, detection algorithms such as the one I propose will offer an automated approach to analysing the imagery fed back. 
