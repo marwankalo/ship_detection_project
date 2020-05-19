@@ -12,15 +12,17 @@ AIS are very effective at monitoring ships which are legally required to install
 
 ### Executive Summary
 
+![Test Image](training_image_ships.png)
+
 The use of satellite detection of ships will significantly bolster the arsenal of stakeholders in maritime surveillance. Used in conjunction with AIS, satellite detection can flag previously unidentified ships and build up a more accurate picture of the world's seas and oceans that are becoming ever more crowded. Some key challenges that this form of surveillance will attempt to tackle are: illegal fishing operations, maritime accident identification and illegal border immigration. 
-In the last decade, numerous companies have deployed survelliance satellites in an attempt to bolster their monitoring capabilities. In turn, detection algorithms such as the one I propose will offer an automated approach to analysing the imagery fed back to earth. 
+In the last decade, numerous companies have deployed survelliance satellites in an attempt to bolster their monitoring capabilities. In turn, detection algorithms such as the one I propose will offer an automated approach to analysing the imagery fed back. 
 
-Next, in a second paragraph, write how you were able to make a data science operationalization of the problem.
-For example, you might say that in order to help solve this problem you set out to build a classification ML model in order to automate some process. 
+To first identify whether or not there are ships in a satellite image is the first piece of the puzzle and I tackled this with an image classification approach. Using convolutional neural networks, I was able to correctly identify images containing ships 98% of the time. Next, the objective was to detect and delineate the ships from the image background to identify the ships more accurately, on a pixel-level. 
 
-Third, you then write what you did on the project that is a bit more technical.
-Here you might say that you took data from [here and make it a link to the original data]() and then ran `a list of models you ran here` in your analysis.
-Then end with one sentence that picks what your best model was and how it performed.
+My final convolutional neural network model for the first stage consisted of four convolutional and pooling layers along with two fully-connected, dense layers. I also included five dropout layers to decrease the model's complexity and in turn reduce overfitting. It performed very strongly on the training and test data - both 98%. The data for the first part was taken from Planet's Open California dataset (https://www.kaggle.com/rhammell/ships-in-satellite-imagery).
+
+The second part of the project involved using a region-based convolutional neural network........
+
 
 Lastly, you say in one or two sentences why this matters. 
 For example, now as opposed to before this data analysis, you can now predict X better than Y. 
