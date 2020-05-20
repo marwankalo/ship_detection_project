@@ -35,6 +35,7 @@ With the models I have proposed, maritime surveillance can now be carried out us
 In future, I would like to continue the project using geographical features to be able to simultaneously plot the position of each ship on a map to assist with tracking. Additionally, with access to AIS surveillance data, I would be able to build a model that identifies 'dark' ships - those that are picked up using satellite detection but not using AIS.
 
 References:
+
 [1](https://news.mongabay.com/2019/08/no-place-to-hide-for-illegal-fishing-fleets-as-surveillance-satellites-prepare-for-lift-off/)
 
 [2](https://geocento.com/satellite-imagery-case-studies/satellite-imagery-can-help-on-maritime-surveillance/)
