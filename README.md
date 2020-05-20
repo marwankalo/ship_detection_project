@@ -1,6 +1,7 @@
 # Contents
 
 [Image Classification Notebook](https://github.com/marwankalo/ship_detection_project/blob/master/notebooks/ship_detection_stage_1.ipynb)
+
 [Presentation](https://github.com/marwankalo/ship_detection_project/blob/master/reports/presentation_draft.pdf)
 
 # Ship Detection using Satellite Imagery
@@ -17,8 +18,9 @@ AIS are very effective at monitoring ships which are legally required to install
 
 ### Executive Summary
 
-![Ships Present](ship_detection_project/images/training_image_ships.png)
-![No Ships Present](ship_detection_project/images/training_image_no_ship.png)
+![Ships Present](https://github.com/marwankalo/ship_detection_project/blob/master/images/training_image_ships.png)
+
+![No Ships Present](https://github.com/marwankalo/ship_detection_project/blob/master/images/training_image_no_ship.png)
 
 The use of satellite detection of ships will significantly bolster the arsenal of stakeholders in maritime surveillance. Used in conjunction with AIS, satellite detection can flag previously unidentified ships and build up a more accurate picture of the world's seas and oceans that are becoming ever more crowded. Some key challenges that this form of surveillance will attempt to tackle are: illegal fishing operations, maritime accident identification and illegal border immigration. 
 In the last decade, numerous companies have deployed survelliance satellites in an attempt to bolster their monitoring capabilities. In turn, detection algorithms such as the one I propose will offer an automated approach to analysing the imagery fed back. 
