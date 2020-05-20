@@ -1,10 +1,16 @@
-# Contents
-
-[Image Classification Notebook](https://github.com/marwankalo/ship_detection_project/blob/master/notebooks/ship_detection_stage_1.ipynb)
-
-[Presentation](https://github.com/marwankalo/ship_detection_project/blob/master/reports/presentation_draft.pdf)
-
 # Ship Detection using Satellite Imagery
+
+## Table of Contents
+
+[1: Image Classification Notebook](https://github.com/marwankalo/ship_detection_project/blob/master/notebooks/ship_detection_stage_1.ipynb)
+
+[2: Presentation](https://github.com/marwankalo/ship_detection_project/blob/master/reports/presentation_draft.pdf)
+
+[3: File Descriptions](#File-Descriptions)
+
+[4: Executive Summary](#Executive-Summary)
+
+[5: References])(#References)
 
 The aim of this project is to accurately classify satellite images that contain ships and furthermore detect the ships on a pixel level in relation to the image as a whole.
 
@@ -15,8 +21,12 @@ AIS are very effective at monitoring ships which are legally required to install
 - marwinkalo@gmail.com
 - https://www.linkedin.com/in/marwan-kalo/
 
+## File Descriptions
 
-### Executive Summary
+
+
+
+## Executive Summary
 
 ![Ships Present](https://github.com/marwankalo/ship_detection_project/blob/master/images/training_image_ships.png)
 
@@ -34,7 +44,7 @@ With the models I have proposed, maritime surveillance can now be carried out us
 
 In future, I would like to continue the project using geographical features to be able to simultaneously plot the position of each ship on a map to assist with tracking. Additionally, with access to AIS surveillance data, I would be able to build a model that identifies 'dark' ships - those that are picked up using satellite detection but not using AIS.
 
-References:
+## References
 
 [1 - Satellite Imagery can help on Maritime Surveillance](https://news.mongabay.com/2019/08/no-place-to-hide-for-illegal-fishing-fleets-as-surveillance-satellites-prepare-for-lift-off/)
 
