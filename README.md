@@ -6,11 +6,15 @@
 
 [2: Presentation](https://github.com/marwankalo/ship_detection_project/blob/master/reports/presentation_draft.pdf)
 
-[3: File Descriptions](#File-Descriptions)
+[3: Introduction](#Introduction)
 
-[4: Executive Summary](#Executive-Summary)
+[4: File Descriptions](#File-Descriptions)
 
-[5: References])(#References)
+[5: Executive Summary](#Executive-Summary)
+
+[6: References](#References)
+
+## Introduction
 
 The aim of this project is to accurately classify satellite images that contain ships and furthermore detect the ships on a pixel level in relation to the image as a whole.
 
