@@ -14,7 +14,11 @@
 
 [5: Executive Summary](#Executive-Summary)
 
-[6: References](#References)
+[6: Contact](#Contact)
+
+[7: References](#References)
+
+
 
 ## Introduction
 
@@ -23,9 +27,6 @@ The aim of this project is to accurately classify satellite images that contain 
 Ship detection is a vital aspect of maritime surveillance as it allows the monitoring of maritime traffic, illegal fishing and sea border activities. This is typically carried out using Automated Identification Systems (AIS) which use VHF radio frequencies to wirelessly broadcast the ships location, destination and identity to nearby receiver devices on other ships and land-based systems. 
 
 AIS are very effective at monitoring ships which are legally required to install a VHF transponder, but fail to detect those which are not, and those which disconnect their transponder. So how do you detect these ‘dark’ ships? Using satellite detection!
-
-- marwinkalo@gmail.com
-- https://www.linkedin.com/in/marwan-kalo/
 
 ## File Descriptions
 
@@ -58,6 +59,11 @@ The second part of the project involved using a region-based convolutional neura
 With the models I have proposed, maritime surveillance can now be carried out using a two pronged approach through the use of traditional AIS tracking as well as satellite detection.
 
 In future, I would like to continue the project using geographical features to be able to simultaneously plot the position of each ship on a map to assist with tracking. Additionally, with access to AIS surveillance data, I would be able to build a model that identifies 'dark' ships - those that are picked up using satellite detection but not using AIS.
+
+## Contact 
+
+- marwinkalo@gmail.com
+- https://www.linkedin.com/in/marwan-kalo/
 
 ## References
 
