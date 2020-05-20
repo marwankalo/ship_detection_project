@@ -1,3 +1,8 @@
+# Contents
+
+[Image Classification Notebook](https://github.com/marwankalo/ship_detection_project/blob/master/notebooks/ship_detection_stage_1.ipynb)
+[Presentation](https://github.com/marwankalo/ship_detection_project/blob/master/reports/presentation_draft.pdf)
+
 # Ship Detection using Satellite Imagery
 
 The aim of this project is to accurately classify satellite images that contain ships and furthermore detect the ships on a pixel level in relation to the image as a whole.
@@ -12,7 +17,8 @@ AIS are very effective at monitoring ships which are legally required to install
 
 ### Executive Summary
 
-![Test Image](./images/training_image_ships.png)
+![Ships Present](ship_detection_project/images/training_image_ships.png)
+![No Ships Present](ship_detection_project/images/training_image_no_ship.png)
 
 The use of satellite detection of ships will significantly bolster the arsenal of stakeholders in maritime surveillance. Used in conjunction with AIS, satellite detection can flag previously unidentified ships and build up a more accurate picture of the world's seas and oceans that are becoming ever more crowded. Some key challenges that this form of surveillance will attempt to tackle are: illegal fishing operations, maritime accident identification and illegal border immigration. 
 In the last decade, numerous companies have deployed survelliance satellites in an attempt to bolster their monitoring capabilities. In turn, detection algorithms such as the one I propose will offer an automated approach to analysing the imagery fed back. 
@@ -24,31 +30,4 @@ My final convolutional neural network model for the first stage consisted of fou
 The second part of the project involved using a region-based convolutional neural network........
 
 
-Lastly, you say in one or two sentences why this matters. 
-For example, now as opposed to before this data analysis, you can now predict X better than Y. 
-
-The goal of this project was to create a `regression/classification` model that was able to predict `what you set out to do`.
-
-> If you are able to swap out the text here with what your case example is you will demonstrate the following:
-> 1. You get why what you're doing 'matters'
-> 2. You are able to take ill defined problems and turn them into something a data scienst can solve
-> 3. You show off your analystical and modeling chops.
-> 4. You are able to communicate technical things you do.
-
-### More Information
-
-Below your Executive Summary, you can document whatever you feel would be of interest to a future employer.
-Here I would especially suggest diving a bit deeper into your methodology and including images that you are proud of from the project. 
-Remember, that people will probably judge your github project page within 45 seconds tops, you want it to look as clean as possible. 
-
-Write documentation that looks like someone you would want to work with.
-
-### Show Off Your Data Viz
-
-![Everyone Likes a Pairplot](figures/seaborn-pairplot-3.png)
-
-> Image taken from `seaborn` [documentation](https://seaborn.pydata.org/generated/seaborn.pairplot.html)
-
-**DO NOT PUT THE GOOD BITS OF YOUR PROJECT BURRIED AWAY AT THE BOTTOM OF YOUR README, YOU ARE NOT WRITING A DETECTIVE NOVEL**
-
-
+With the models I have proposed, maritime surveillance can now be carried out using a two pronged approach through the use of traditional AIS tracking as well as satellite detection.
