@@ -36,6 +36,6 @@ In future, I would like to continue the project using geographical features to b
 
 References:
 
-[1](https://news.mongabay.com/2019/08/no-place-to-hide-for-illegal-fishing-fleets-as-surveillance-satellites-prepare-for-lift-off/)
+[1 - Satellite Imagery can help on Maritime Surveillance](https://news.mongabay.com/2019/08/no-place-to-hide-for-illegal-fishing-fleets-as-surveillance-satellites-prepare-for-lift-off/)
 
-[2](https://geocento.com/satellite-imagery-case-studies/satellite-imagery-can-help-on-maritime-surveillance/)
+[2 - ‘No place to hide’ for illegal fishing fleets](https://geocento.com/satellite-imagery-case-studies/satellite-imagery-can-help-on-maritime-surveillance/)
