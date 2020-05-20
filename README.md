@@ -31,3 +31,5 @@ The second part of the project involved using a region-based convolutional neura
 
 
 With the models I have proposed, maritime surveillance can now be carried out using a two pronged approach through the use of traditional AIS tracking as well as satellite detection.
+
+In future, I would like to continue the project using geographical features to be able to simultaneously plot the position of each ship on a map to assist with tracking. Additionally, with access to AIS surveillance data, I would be able to build a model that identifies 'dark' ships - those that are picked up using satellite detection but not using AIS.
