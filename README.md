@@ -30,11 +30,11 @@ AIS are very effective at monitoring ships which are legally required to install
 
 ## File Descriptions
 
-ship_detection_stage_1.ipynb - Notebook containing all of the steps for the initial image classification model
+[ship_detection_stage_1.ipynb](https://github.com/marwankalo/ship_detection_project/blob/master/notebooks/ship_detection_stage_1.ipynb) - Notebook containing all of the steps for the initial image classification model
 
-images - A directory containing images used to present my findings
+[images](https://github.com/marwankalo/ship_detection_project/tree/master/images) - A directory containing images used to present my findings
 
-reports - A directory containing the final memo and powerpoint presentaion
+[reports](https://github.com/marwankalo/ship_detection_project/tree/master/reports) - A directory containing the final memo and powerpoint presentaion
 
 For reproducibility of this notebook please clone it onto your local device and visit the following sites for the data:
 
