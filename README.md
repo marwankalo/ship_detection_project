@@ -38,7 +38,7 @@ AIS are very effective at monitoring ships which are legally required to install
 
 For reproducibility of this notebook please clone it onto your local device and visit the following sites for the data:
 
-[Stage 1]((https://www.kaggle.com/rhammell/ships-in-satellite-imagery)
+[Stage 1](https://www.kaggle.com/rhammell/ships-in-satellite-imagery)
 
 [Stage 2](https://www.kaggle.com/c/airbus-ship-detection/data)
 
