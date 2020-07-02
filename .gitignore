@@ -1,3 +1,5 @@
 *.zip
 *.json
 raw_data/
+*.jpg
+*.csv
