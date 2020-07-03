@@ -59,6 +59,7 @@ Next, the objective was to detect and delineate the ships from the image backgro
 
 The method I used for the second part of the project extended traditional region-based convolutional neural network methods for object detection to also mark specific pixels as belonging to one group or another. The name given to this type of problem is object or instance segmentation. I used a model known as Mask R-CNN which extends the object detection and bounding box models to also output a mask of the object the model is trying to detect. I utilised a reliable third party implementation built on top of the Keras deep learning framework by Matterport. I also used a pre-trained set of weights trained on Microsoft's COCO object detection dataset to speed up the process. The final model performed with 79% accuracy on the test set which was only 4% off the highest score on the kaggle competition leaderboard.  
 
+![Validation set real vs predicted masks](https://github.com/marwankalo/ship_detection_project/blob/master/images/ouput_masks.png)
 
 With the models I have proposed, maritime surveillance can now be carried out using a two pronged approach through the use of traditional AIS tracking as well as satellite detection.
 
